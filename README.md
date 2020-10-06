@@ -9,14 +9,14 @@ Tiktok ориентируется на мобильных пользовател
 число пользователей использующий мобильный интернет в Индии.
 
 Общее число пользователей интернет в Индии на 2020 ~(650 000 000)
-	  [1.1](https://www.cia.gov/library/publications/the-world-factbook/fields/204rank.html#AQ)
-		[1.2](https://www.internetlivestats.com/internet-users/india/)
-    [1.3](https://www.statista.com/statistics/255146/number-of-internet-users-in-india/)
+[1](https://www.cia.gov/library/publications/the-world-factbook/fields/204rank.html#AQ)
+[2](https://www.internetlivestats.com/internet-users/india/)
+[3](https://www.statista.com/statistics/255146/number-of-internet-users-in-india/)
 	
 Число пользователей, использующих мобильный интернет в Индии на 2020 составляет ~70% 
 от общего числа пользователей сети интернет в Индии ~(450 000 000) 
-		[2.1](https://www.statista.com/statistics/558610/number-of-mobile-internet-user-in-india/)
-    [2.2](https://ourworldindata.org/internet)
+[1](https://www.statista.com/statistics/558610/number-of-mobile-internet-user-in-india/)
+[2](https://ourworldindata.org/internet)
 	
 Число пользователей ~(450 000 000) является максимальной оценкой рынка для любого мобильного приложения в Индии.
 В этом числе не учитывается распределение целивой аудитории. Можно предположить, целивая аудитория Tiktok в 
@@ -30,8 +30,9 @@ Tiktok ориентируется на мобильных пользовател
 	(45-54)	~ 14%
 	(55-64)	~ 10%
 	(65+)	~ 7%
-	[3.1](https://www.statista.com/statistics/272365/age-distribution-of-internet-users-worldwide/)
-  [3.2](https://sproutsocial.com/insights/new-social-media-demographics/)
+	
+[1](https://www.statista.com/statistics/272365/age-distribution-of-internet-users-worldwide/)
+[2](https://sproutsocial.com/insights/new-social-media-demographics/)
 
 Заметим, что целевая аудитория составляет около 50% от общего кол-ва пользователей,
 использующих мобильный интернет в Индии. И соответственно это число можно оценить в ~(220 000 000)
